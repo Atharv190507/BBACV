@@ -1,0 +1,7 @@
+{
+  "name": "BBACV - Secure Certificate System",
+  "description": "Blockchain-Based Academic Certificate Verification System with AI-powered Fraud Detection and OCR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
